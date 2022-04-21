@@ -13,3 +13,4 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a> <img src="https://img.shields.io/badge/dntjd4562@sinsabridge.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
